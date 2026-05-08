@@ -4,22 +4,24 @@ Repositório dedicado ao estudo intensivo de Java, focado em lógica de programa
 
 ## 🚀 Desafios Concluídos
 
-| Desafio | Título                     | Conceitos Chave                 |
-|:--------|:---------------------------|:--------------------------------|
-| 03      | Tabuada Interativa         | Operadores, Scanner             |
-| 04      | Somador de Numero Infinito | Operadores, Scanner             |
-| 05      | Analista de Temperaturas   | Scanner                         |
-| 06      | Pequeno Criptografo        | Scanner                         |
-| 07      | Cadastro de Carros         | Classes, Objetos                |
-| 08      | Conta Bancária             | Encapsulamento, Getters/Setters |
-| 09      | Hierarquia Funcionario     | Herança, @Override              |
-| 10      | Maestro dos Sons           | Polimorfismo                    |
-| 11      | Gerenciador Contatos       | ArrayList, Menus (Em breve)     |
+| Desafio | Título                     | Conceitos Chave                    |
+|:--------|:---------------------------|:-----------------------------------|
+| 03      | Tabuada Interativa         | Operadores, Scanner                |
+| 04      | Somador de Numero Infinito | Operadores, Scanner                |
+| 05      | Analista de Temperaturas   | Scanner                            |
+| 06      | Pequeno Criptografo        | Scanner                            |
+| 07      | Cadastro de Carros         | Classes, Objetos                   | ✅ |
+| 08      | Conta Bancária             | Encapsulamento, Getters/Setters    | ✅ |
+| 09      | Hierarquia Funcionario     | Herança, @Override                 | ✅ |
+| 10      | Maestro dos Sons           | Polimorfismo                       | ✅ |
+| 11      | Gerenciador Contatos       | ArrayList Dinâmico, Menu de Opções | ✅ |
+| 12      | Gestor de Estoque          | Busca e Remoção em Listas          | 🕒 Em breve |
+| 13      | Calculador Resiliente      | Tratamento de Exceções (Try-Catch) | 🕒 Em breve |
 
 ## 🛠️ Tecnologias
 - **Linguagem:** Java 17+
 - **IDE:** IntelliJ IDEA
-- **Paradigma:** Orientação a Objetos
+- **Controle de Versão:** Git & GitHub
 
 ## 📈 Evolução
-Este projeto faz parte do meu plano de estudos diário para atingir o nível PRO em desenvolvimento Java.
+Este projeto faz parte do meu plano de estudos diário. Mesmo com a correria da faculdade e semanas de provas, o objetivo é manter a consistência e a evolução no ecossistema Java.
