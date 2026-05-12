@@ -29,7 +29,14 @@ public class MainEstoque {
                 Produto newProduct = new Produto();
                 newProduct.setNome(nomeDigitado); // setando o nome do produto
                 System.out.println("Digite a quantidade de estoque inicial do produto: ");
-                newProduct.setQuantidadeEstoque(input.nextInt()); // setando a quantidade do estoque
+
+                int valorDigitado = input.nextInt();
+
+                if(valorDigitado <= 0){
+                    System.out.println("Valor inválido. A quantidade de estoque deve ser maior que zero.");
+                    return;
+                }
+                newProduct.setQuantidadeEstoque(valorDigitado); // setando a quantidade do estoque
 
                 listaDeProdutos.add(newProduct); // adicionando o produto na lista de produtos
 

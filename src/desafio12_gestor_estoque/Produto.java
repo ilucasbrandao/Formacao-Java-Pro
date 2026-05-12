@@ -52,10 +52,6 @@ public class Produto {
     }
 
     public void setQuantidadeEstoque(int quantidadeEstoque) {
-        if(quantidadeEstoque < 0) {
-            System.out.println("Quantidade dever ser igual ou maior do que 0.");
-            return;
-        }
         this.quantidadeEstoque = quantidadeEstoque;
     }
 }
