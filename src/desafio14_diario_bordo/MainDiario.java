@@ -61,7 +61,6 @@ public class MainDiario {
                 System.out.println("Opção inválida! Tente novamente.");
             }
         }
-
         input.close(); // Fecha o scanner principal
     }
 }
